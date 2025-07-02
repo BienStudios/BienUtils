@@ -1,0 +1,24 @@
+{
+    "name": "bienutils",
+    "version": "1.0.0-SNAPSHOT",
+    "description": "Conjunto de utilidades para creación de SPAs JavaScript. Versión preliminar (puede presentar errores)",
+    "main": "BienUtils.js",
+    "keywords": [
+        "bienutils",
+        "bienstudios",
+        "spa",
+        "javascript",
+        "module",
+        "modular",
+        "tools"
+    ],
+    "author": {
+        "name": "Brian Merino",
+        "email": "brianmerfue98@gmail.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BienStudios/BienUtils.git"
+    }
+}
