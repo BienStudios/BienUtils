@@ -7,7 +7,7 @@
  * La clase ya incluye un acceso globalizado (`BienUtils` o `window.BienUtils`),
  * pero puedes importar la instancia de sí misma y llamarla como gustes.
  * @example
- * import app from "https://cdn.jsdelivr.net/gh/BienStudios/BienUtils/BienUtils.js";
+ * import app from "https://cdn.jsdelivr.net/gh/BienStudios/BienUtils@v1.0.2/BienUtils.js";
  * try {
  *     await app.init();
  * } catch (e) {
@@ -21,7 +21,7 @@
  * });
  */
 class BienUtils {
-    #origin = "http://localhost:8081";
+    #origin = "https://cdn.jsdelivr.net/gh/BienStudios/BienUtils@v1.0.2";
     #Version;
     #Directories;
     #Help;
